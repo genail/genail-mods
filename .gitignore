@@ -1,0 +1,4 @@
+# Written by Claude Code on every load of a mod. The MCP types list your own connected servers.
+*/.claude-plugin/types/
+*/tsconfig.json
+.DS_Store

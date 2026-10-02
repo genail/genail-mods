@@ -1,0 +1,12 @@
+{
+  "name": "genail-mods",
+  "owner": { "name": "Piotr Korzuszek" },
+  "metadata": { "description": "Claude Code mods by Genail" },
+  "plugins": [
+    {
+      "name": "task-progress",
+      "source": "./task-progress",
+      "description": "Live progress bars above the prompt for background shells and subagents"
+    }
+  ]
+}

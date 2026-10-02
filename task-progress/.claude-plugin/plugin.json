@@ -1,0 +1,11 @@
+{
+  "name": "task-progress",
+  "version": "0.1.0",
+  "description": "Live progress bars above the prompt for background shells and subagents",
+  "author": { "name": "Piotr Korzuszek", "url": "https://github.com/genail" },
+  "homepage": "https://github.com/genail/genail-mods/tree/main/task-progress",
+  "repository": "https://github.com/genail/genail-mods",
+  "license": "MIT",
+  "keywords": ["mod", "progress", "background-tasks", "subagents"],
+  "types": "./types/index.d.ts"
+}
